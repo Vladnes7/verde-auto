@@ -1,0 +1,800 @@
+{
+  "checks": [
+    {
+      "name": "1440 title",
+      "pass": true,
+      "detail": "ДОСТАВКА АВТОМОБИЛЕЙ из Китая."
+    },
+    {
+      "name": "1440 hero fits",
+      "pass": true,
+      "detail": "{\"title\":\"ДОСТАВКА АВТОМОБИЛЕЙ из Китая.\",\"width\":1440,\"viewport\":1440,\"cta\":742.34375,\"foot\":772}"
+    },
+    {
+      "name": "1440 / animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 / opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 / animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 / closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 / rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 / Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 / Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 / no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /faq/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/turnkey/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/transport/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /services/inspection/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 title",
+      "pass": true,
+      "detail": "ДОСТАВКА АВТОМОБИЛЕЙ из Китая."
+    },
+    {
+      "name": "390 hero fits",
+      "pass": true,
+      "detail": "{\"title\":\"ДОСТАВКА АВТОМОБИЛЕЙ из Китая.\",\"width\":390,\"viewport\":390,\"cta\":468.4375,\"foot\":740.625}"
+    },
+    {
+      "name": "390 / animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 / opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 / animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 / closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 / rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 / Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 / Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 / no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /faq/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/turnkey/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/transport/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /services/inspection/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 title",
+      "pass": true,
+      "detail": "ДОСТАВКА АВТОМОБИЛЕЙ из Китая."
+    },
+    {
+      "name": "360 hero fits",
+      "pass": true,
+      "detail": "{\"title\":\"ДОСТАВКА АВТОМОБИЛЕЙ из Китая.\",\"width\":360,\"viewport\":360,\"cta\":424.328125,\"foot\":626.625}"
+    },
+    {
+      "name": "360 / animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 / opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 / animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 / closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 / rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 / Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 / Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 / no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /faq/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/turnkey/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/transport/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ animates open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ animates closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "360 /services/inspection/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced title",
+      "pass": true,
+      "detail": "ДОСТАВКА АВТОМОБИЛЕЙ из Китая."
+    },
+    {
+      "name": "1440 reduced hero fits",
+      "pass": true,
+      "detail": "{\"title\":\"ДОСТАВКА АВТОМОБИЛЕЙ из Китая.\",\"width\":1440,\"viewport\":1440,\"cta\":742.34375,\"foot\":772}"
+    },
+    {
+      "name": "1440 reduced / opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced / closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced / rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced / Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced / Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced / no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /faq/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /faq/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /faq/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /faq/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /faq/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /faq/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/turnkey/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/turnkey/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/turnkey/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/turnkey/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/turnkey/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/turnkey/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/transport/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/transport/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/transport/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/transport/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/transport/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/transport/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/inspection/ opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/inspection/ closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/inspection/ rapid reversal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/inspection/ Space closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/inspection/ Enter opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reduced /services/inspection/ no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no runtime errors",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "pages": 70,
+  "results": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "countries": 177,
+      "labels": [
+        "РОССИЯ",
+        "КИТАЙ",
+        "КАЗАХСТАН",
+        "МОНГОЛИЯ"
+      ]
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "countries": 177,
+      "labels": [
+        "РОССИЯ",
+        "КИТАЙ",
+        "КАЗАХСТАН",
+        "МОНГОЛИЯ"
+      ]
+    },
+    {
+      "width": 360,
+      "overflow": false,
+      "countries": 177,
+      "labels": [
+        "РОССИЯ",
+        "КИТАЙ",
+        "КАЗАХСТАН",
+        "МОНГОЛИЯ"
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,376 @@
+{
+  "doc": {
+    "height": 7074,
+    "vh": 900,
+    "acts": [
+      "flow",
+      "flow",
+      "flow",
+      "pin",
+      "flow",
+      "flow"
+    ],
+    "world": null
+  },
+  "report": [
+    {
+      "i": 0,
+      "y": 0,
+      "pct": 0,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        4072
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 1,
+      "y": 34,
+      "pct": 1,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        4038
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 2,
+      "y": 846,
+      "pct": 14,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        3226
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 3,
+      "y": 852,
+      "pct": 14,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        3220
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 4,
+      "y": 856,
+      "pct": 14,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        3216
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 5,
+      "y": 1657,
+      "pct": 27,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        2415
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 6,
+      "y": 2431,
+      "pct": 39,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        1641
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 7,
+      "y": 4006,
+      "pct": 65,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        66
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 8,
+      "y": 4033,
+      "pct": 65,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        39
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 9,
+      "y": 4052,
+      "pct": 66,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        20
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 10,
+      "y": 4071,
+      "pct": 66,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        1
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 11,
+      "y": 4072,
+      "pct": 66,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 12,
+      "y": 5025,
+      "pct": 81,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -953
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 13,
+      "y": 5157,
+      "pct": 84,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -1085
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 14,
+      "y": 5978,
+      "pct": 97,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -1906
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 15,
+      "y": 6102,
+      "pct": 99,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -2030
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    },
+    {
+      "i": 16,
+      "y": 6174,
+      "pct": 100,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -2102
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#f5f4eb"
+    }
+  ],
+  "consoleErrors": [],
+  "failed": []
+}

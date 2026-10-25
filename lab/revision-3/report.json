@@ -1,0 +1,451 @@
+{
+  "results": [
+    {
+      "name": "1440 menu starts navigation without close delay",
+      "pass": true,
+      "detail": "39 ms"
+    },
+    {
+      "name": "1440 menu destination has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 new page starts at top",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 all twelve BMW visible",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 interrupted filters do not leave faded cards",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 new BMW has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 BMW image loaded",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 Back has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 Back cards fully opaque",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 all cars from BMW has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 model from catalog has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 header transition has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 reported Mercedes EQE has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /media/salon-facade.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /media/salon-lounge.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 /media/salon-handover.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 company no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1440 footer hover underline",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 menu starts navigation without close delay",
+      "pass": true,
+      "detail": "56 ms"
+    },
+    {
+      "name": "390 menu destination has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 new page starts at top",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 all twelve BMW visible",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 interrupted filters do not leave faded cards",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 new BMW has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 BMW image loaded",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 Back has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 Back cards fully opaque",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 all cars from BMW has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 model from catalog has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 header transition has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 reported Mercedes EQE has no covering layer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /media/salon-facade.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /media/salon-lounge.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 /media/salon-handover.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 company no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "390 footer hover underline",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x6 mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x6 full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x7 mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x7 full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i7 mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i7 full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-m4 mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-m4 full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-glc-coupe mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-glc-coupe full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gle-coupe mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gle-coupe full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gls-ivory mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gls-ivory full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-amg-gt mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-amg-gt full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-panamera-hybrid mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-panamera-hybrid full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayenne-coupe mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayenne-coupe full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-macan-electric mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-macan-electric full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-911-gts mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-911-gts full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l6-ivory mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l6-ivory full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l7-graphite mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l7-graphite full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l8-family mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l8-family full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l9-ivory mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "li-l9-ivory full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-free-dark mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-free-dark full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-dreamer-lounge mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-dreamer-lounge full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-passion-awd mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-passion-awd full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-courage-awd mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "voyah-courage-awd full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-001-touring mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-001-touring full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-007-sport mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-007-sport full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-009-lounge mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-009-lounge full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-7x-family mobile layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zeekr-7x-family full photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "94 independent routes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "72 cars and configurations",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "12 per brand",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no runtime errors",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "no resource failures",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "errors": [],
+  "badResponses": []
+}

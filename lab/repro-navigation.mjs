@@ -1,0 +1,9 @@
+import {chromium} from 'playwright-core';
+const b=await chromium.launch({executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',headless:true});
+const p=await b.newPage({viewport:{width:1440,height:900}});p.on('pageerror',e=>console.log('ERROR',e.message));
+const report=async label=>console.log(label,JSON.stringify(await p.evaluate(()=>({url:location.pathname,y:scrollY,curtain:document.querySelector('.page-curtain')?.getBoundingClientRect().top,viewports:[...document.querySelectorAll('.vehicle-card')].filter(el=>{const r=el.getBoundingClientRect();return r.top<innerHeight&&r.bottom>100}).slice(0,5).map(e=>({opacity:getComputedStyle(e).opacity,top:e.getBoundingClientRect().top})),selection:window.getSelection()?.toString().length,animations:document.getAnimations().length}))));
+await p.goto('http://127.0.0.1:4173/',{waitUntil:'networkidle'});await p.locator('.menu-button').click();await p.waitForTimeout(1200);const start=Date.now();await p.locator('.menu-grid a[href="/catalog/"]').click();await p.waitForURL('**/catalog/');console.log('menu navigation ms',Date.now()-start);await p.waitForTimeout(1000);await report('catalog');
+await p.locator('[data-brand-filter="bmw"]').click();await p.locator('.catalog-grid').scrollIntoViewIfNeeded();await p.waitForTimeout(900);await report('bmw');await p.screenshot({path:'lab/repro-bmw.jpg'});
+await p.locator('.vehicle-photo').first().click();await p.waitForURL('**/cars/bmw-530/');await p.waitForTimeout(1000);await report('car');await p.goBack({waitUntil:'domcontentloaded'});await p.waitForTimeout(900);await report('back');
+await p.goto('http://127.0.0.1:4173/brands/bmw/',{waitUntil:'networkidle'});await p.locator('.catalog-grid').scrollIntoViewIfNeeded();await p.waitForTimeout(900);await p.locator('[data-brand-filter="all"]').click();await p.waitForURL('**/catalog/');await p.waitForTimeout(1200);await report('all from BMW');
+await b.close();

@@ -1,0 +1,96 @@
+[
+  {
+    "case": "route visible",
+    "stageTop": 0,
+    "headingTop": 125,
+    "headerBottom": 85.5,
+    "route": "1633px",
+    "card": {
+      "x": 364.611083984375,
+      "y": 277.0633544921875,
+      "width": 400.77783203125,
+      "height": 464.29364013671875,
+      "top": 277.0633544921875,
+      "right": 765.388916015625,
+      "bottom": 741.3569946289062,
+      "left": 364.611083984375
+    }
+  },
+  {
+    "case": "route visible",
+    "stageTop": 0,
+    "headingTop": 125,
+    "headerBottom": 85.5,
+    "route": "859px",
+    "card": {
+      "x": 533.369140625,
+      "y": 299.5206604003906,
+      "width": 333.26171875,
+      "height": 419.3789978027344,
+      "top": 299.5206604003906,
+      "right": 866.630859375,
+      "bottom": 718.899658203125,
+      "left": 533.369140625
+    }
+  },
+  {
+    "case": "route visible",
+    "stageTop": 0,
+    "headingTop": 125,
+    "headerBottom": 85.5,
+    "route": "86px",
+    "card": {
+      "x": 662.9974365234375,
+      "y": 295.69024658203125,
+      "width": 344.005126953125,
+      "height": 427.039794921875,
+      "top": 295.69024658203125,
+      "right": 1007.0025634765625,
+      "bottom": 722.7300415039062,
+      "left": 662.9974365234375
+    }
+  },
+  {
+    "case": "desktop chosen photo",
+    "pass": true
+  },
+  {
+    "case": "desktop no errors",
+    "pass": true,
+    "errors": []
+  },
+  {
+    "case": "desktop no overflow",
+    "pass": true
+  },
+  {
+    "case": "mobile chosen photo",
+    "pass": true
+  },
+  {
+    "case": "mobile no errors",
+    "pass": true,
+    "errors": []
+  },
+  {
+    "case": "mobile no overflow",
+    "pass": true
+  },
+  {
+    "case": "reduced chosen photo",
+    "pass": true
+  },
+  {
+    "case": "motion-off controls hidden",
+    "pass": true
+  },
+  {
+    "case": "reduced no errors",
+    "pass": true,
+    "errors": []
+  },
+  {
+    "case": "reduced no overflow",
+    "pass": true
+  }
+]

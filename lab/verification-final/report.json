@@ -1,0 +1,802 @@
+{
+  "checks": [
+    {
+      "name": "desktop no overflow",
+      "pass": true,
+      "detail": "1440/1440"
+    },
+    {
+      "name": "desktop hero readable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop menu open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop menu closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop menu focus restored",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "route remains visible in middle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw eight models",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-530 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-530 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-530 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-530 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-320 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-320 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-320 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-320 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-330 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-330 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-330 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-330 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i3 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i3 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i3 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i3 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i4 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i4 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i4 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i4 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i5 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i5 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i5 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-i5 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x3 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x3 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x3 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x3 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x5 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x5 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x5 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bmw-x5 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes eight models",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-e300 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-e300 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-e300 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-e300 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-c260 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-c260 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-c260 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-c260 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-s450 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-s450 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-s450 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-s450 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-glc correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-glc photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-glc photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-glc photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gle correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gle photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gle photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gle photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gls correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gls photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gls photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-gls photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqe correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqe photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqe photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqe photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqs correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqs photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqs photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mercedes-eqs photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche eight models",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayenne correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayenne photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayenne photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayenne photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-911 correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-911 photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-911 photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-911 photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-macan correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-macan photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-macan photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-macan photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-panamera correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-panamera photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-panamera photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-panamera photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-taycan correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-taycan photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-taycan photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-taycan photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayman correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayman photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayman photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-cayman photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-boxster correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-boxster photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-boxster photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-boxster photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-coupe correct description",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-coupe photo 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-coupe photo 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "porsche-coupe photo 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "default six cards",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "load more adds six",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "hover opens color aperture",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop gallery changes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop chosen car retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop email carries model",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop clipboard feedback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop selection survives reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop final no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile no overflow",
+      "pass": true,
+      "detail": "390/390"
+    },
+    {
+      "name": "mobile hero readable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile menu open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile menu closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile menu focus restored",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile gallery changes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile chosen car retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile email carries model",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile clipboard feedback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile selection survives reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile final no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact no overflow",
+      "pass": true,
+      "detail": "360/360"
+    },
+    {
+      "name": "compact hero readable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact menu open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact menu closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact menu focus restored",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact gallery changes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact chosen car retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact email carries model",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact clipboard feedback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact selection survives reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "compact final no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced no overflow",
+      "pass": true,
+      "detail": "1440/1440"
+    },
+    {
+      "name": "reduced hero readable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced menu open",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced menu closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced menu focus restored",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced gallery changes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced chosen car retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced email carries model",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced clipboard feedback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced selection survives reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced final no overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced video paused",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "72 unique catalogue images",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no browser errors",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "no failed requests",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "screenshots": [
+    "lab/verification-final/desktop-hero.jpg",
+    "lab/verification-final/desktop-menu.jpg",
+    "lab/verification-final/desktop-about.jpg",
+    "lab/verification-final/desktop-collection.jpg",
+    "lab/verification-final/desktop-journey.jpg",
+    "lab/verification-final/desktop-details.jpg",
+    "lab/verification-final/desktop-contact.jpg",
+    "lab/verification-final/desktop-journey-middle.jpg",
+    "lab/verification-final/desktop-hover-before.jpg",
+    "lab/verification-final/desktop-hover-after.jpg",
+    "lab/verification-final/desktop-car-dialog.jpg",
+    "lab/verification-final/desktop-contact-selected.jpg",
+    "lab/verification-final/mobile-hero.jpg",
+    "lab/verification-final/mobile-menu.jpg",
+    "lab/verification-final/mobile-about.jpg",
+    "lab/verification-final/mobile-collection.jpg",
+    "lab/verification-final/mobile-journey.jpg",
+    "lab/verification-final/mobile-details.jpg",
+    "lab/verification-final/mobile-contact.jpg",
+    "lab/verification-final/mobile-car-dialog.jpg",
+    "lab/verification-final/mobile-contact-selected.jpg",
+    "lab/verification-final/compact-hero.jpg",
+    "lab/verification-final/compact-menu.jpg",
+    "lab/verification-final/compact-about.jpg",
+    "lab/verification-final/compact-collection.jpg",
+    "lab/verification-final/compact-journey.jpg",
+    "lab/verification-final/compact-details.jpg",
+    "lab/verification-final/compact-contact.jpg",
+    "lab/verification-final/compact-car-dialog.jpg",
+    "lab/verification-final/compact-contact-selected.jpg",
+    "lab/verification-final/reduced-hero.jpg",
+    "lab/verification-final/reduced-menu.jpg",
+    "lab/verification-final/reduced-about.jpg",
+    "lab/verification-final/reduced-collection.jpg",
+    "lab/verification-final/reduced-journey.jpg",
+    "lab/verification-final/reduced-details.jpg",
+    "lab/verification-final/reduced-contact.jpg",
+    "lab/verification-final/reduced-car-dialog.jpg",
+    "lab/verification-final/reduced-contact-selected.jpg"
+  ]
+}
